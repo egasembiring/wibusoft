@@ -83,4 +83,4 @@ Tim support kami siap membantu Anda kapan saja:
 🔥 **NEW!** Fitur AI ChatGPT-4 sudah tersedia untuk semua pengguna premium. Update otomatis tanpa perlu setting ulang!
 :::
 
-Siap memulai journey bot WhatsApp Anda? Mari jelajahi [fitur-fitur lengkap](/docs/category/features) yang tersedia! 🌟
+Siap memulai journey bot WhatsApp Anda? Mari jelajahi fitur-fitur lengkap yang tersedia! 🌟
